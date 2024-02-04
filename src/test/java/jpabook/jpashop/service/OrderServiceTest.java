@@ -87,6 +87,8 @@ class OrderServiceTest {
                 orderService.order(member.getId(), item.getId(),orderCount)
         );
 
+        Assertions.assertEquals();
+
         //then
 
     }
